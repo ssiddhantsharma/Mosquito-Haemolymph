@@ -9,3 +9,12 @@ _Objectives_ :
 
 ### Future Collaboration and Questions : 
 https://www.vanderbilt.edu/hillyerlab/Graduate_Research.html -  Lab(contact)
+
+### Edit :
+1) https://jeb.biologists.org/content/218/3/370.abstract - "Comparative structural and functional analysis of the larval and adult dorsal vessel and its role in hemolymph circulation in the mosquito Anopheles gambiae"
+
+2) https://jeb.biologists.org/content/213/4/541.full - "Structural mechanics of the mosquito heart and its function in bidirectional hemolymph transport"
+
+//Wonderful papers to read and comment on the issue.
+
+
