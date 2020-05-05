@@ -17,4 +17,6 @@ https://www.vanderbilt.edu/hillyerlab/Graduate_Research.html -  Lab(contact)
 
 //Wonderful papers to read and comment on the issue.
 
+### _A piece of advice_
+![Research](https://github.com/ssiddhantsharma/Analytics-Pitch/blob/master/shotsnapp-1586287137.867.png)
 
